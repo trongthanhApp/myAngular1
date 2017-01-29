@@ -14,3 +14,9 @@ I.4 Grabs the typings files from the Definitely Typed repository
 This will create a typings.json file and a typings folder with the .d.ts files.
 typings search angular
 typings install dt~angular --save
+
+
+II - de chay tu dong code css trong workspace(vi du bootstrap) trong visual studio code
+cai extension html css class completion (tac gia Zignd)
+
+
