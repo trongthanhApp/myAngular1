@@ -1,0 +1,2 @@
+proxy=http://app.test.com:3128
+rejectUnauthorized=false
