@@ -20,3 +20,16 @@ II - de chay tu dong code css trong workspace(vi du bootstrap) trong visual stud
 cai extension html css class completion (tac gia Zignd)
 
 
+III - Cai dat tsd DefinitelyTyped project definition files on github
+
+1 -
+npm install -g tsd
+
+2 - create new tsd.json and typings/tsd.d.ts
+tsd init
+
+3 - search angular, "-action install" to download typings and place them in the folder specified in the path property in tsd.json, default is /typings, "-save" tells the tool to update the tsd.d.ts and tsd.json files
+tsd query angular -action install -save
+
+
+
